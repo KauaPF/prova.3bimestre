@@ -1,0 +1,301 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+}
+
+.TitlePart2{
+    color: #ff6b35;
+}
+
+.titleHeader{
+    display: flex;
+    gap: 5px;
+}
+
+.list1{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+
+.section1{
+    height: 220px;
+    background: linear-gradient(90deg, black 49%,  #ff6b35 73%);
+    
+}
+
+.container1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img1{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    padding-top: 10px;
+    
+}
+
+.part1{
+    color: white;
+}
+
+.part2{
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.button1{
+    background-color: #ff6b35;
+    color: white;
+    font-weight: 500;
+    border-radius: 30px;
+    margin-top: 15px;
+    padding: 5px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-left: 14px;
+    margin-top: 5px;
+}
+
+.section2{
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+    height: 300px;
+    background-color: rgb(231, 222, 222);
+    
+}
+
+
+.quadrado1{
+    width: 180px;
+    height: 210px;
+    margin-top: 30px;
+    background-color: rgb(189, 192, 196);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.NikeDunk{
+    margin-top: 5px;
+    margin-bottom: 3px;
+    margin-left: 5px;
+
+}
+
+.button2{
+    background-color: #ff6b35;
+    color: white;
+    font-weight: 500;
+    border-radius: 7px;
+    margin-top: 15px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.preco1{
+    color: #ff6b35;
+    margin-bottom: 8px;
+    margin-left: 23px;
+}
+
+.quadrado2{
+    width: 180px;
+    height: 210px;
+    margin-top: 30px;
+    background-color: rgb(189, 192, 196);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.NikeAir{
+    margin-top: 5px;
+    margin-bottom: 3px;
+    margin-left: 5px;
+
+}
+
+.preco2{
+    color: #ff6b35;
+    margin-bottom: 8px;
+    margin-left: 23px;
+
+}
+
+.button3{
+    background-color: #ff6b35;
+    color: white;
+    font-weight: 500;
+    border-radius: 7px;
+    margin-top: 15px;
+    padding: 5px;
+    margin-top: 10px;
+
+}
+
+.quadrado3{
+    width: 180px;
+    height: 210px;
+    margin-top: 30px;
+    background-color: rgb(189, 192, 196);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.AirJordan{
+    margin-top: 5px;
+    margin-bottom: 3px;
+    margin-left: 5px;
+
+}
+
+.preco3{
+    color: #ff6b35;
+    margin-bottom: 8px;
+    margin-left: 23px;
+
+}
+
+.button4{
+    background-color: #ff6b35;
+    color: white;
+    font-weight: 500;
+    border-radius: 7px;
+    margin-top: 15px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.quadrado4{
+    width: 180px;
+    height: 210px;
+    margin-top: 30px;
+    background-color: rgb(189, 192, 196);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.button5{
+    background-color: #ff6b35;
+    color: white;
+    font-weight: 500;
+    border-radius: 7px;
+    margin-top: 15px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 14px;
+}
+
+.preco4{
+    color: #ff6b35;
+    margin-bottom: 8px;
+    margin-left: 40px;
+
+}
+
+.AdidasYeezy{
+    margin-top: 5px;
+    margin-bottom: 3px;
+    margin-left: 4px;
+
+}
+
+.img3{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-left: 14px;
+    margin-top: 5px;
+    padding-left: 100px;
+
+}
+
+.section3{
+    display: flex;
+    justify-content: space-around;
+    background: linear-gradient(90deg, black 49%,  #ff6b35 73%);
+    height: 180px;
+}
+
+.container4{
+    background-color: rgb(217, 225, 233);
+    width: 400px;
+    height: 100px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.container5{
+    background-color: rgb(217, 225, 233);
+    width: 400px;
+    height: 100px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+
+}
+
+.container6{
+    background-color: rgb(217, 225, 233);
+    width: 400px;
+    height: 100px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40px;
+    background-color: rgb(231, 222, 222);
+    height: 80px;
+}
+
+.logo1{
+    color: black;
+}
+
+.numero{
+    color: black;
+    display: flex;
+    gap: 20px;
+}
+
+.email{
+    color: black;
+}
+
+.texto{
+    color: black;
+}
+
